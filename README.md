@@ -53,6 +53,6 @@
 ###
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/your-profile/" target="_blank">LinkedIn</a></li>
-  <li><a href="mailto:your-email@example.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/dungarani-harsh/" target="_blank">LinkedIn</a></li>
+  <li><a href="mailto:dungaraniharsh03@gmail.com">Email</a></li>
 </ul>
